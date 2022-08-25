@@ -13,7 +13,7 @@ print(f'''{Fore.LIGHTRED_EX}
 ░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀░░░░▀░░▀▀▀░▀░▀░▀▀▀░▀░▀░
 ░█▀▀░█░█░█▀█░█▀█░█▀▀░█▀▀░█▀▄░
 ░█░░░█▀█░█▀█░█░█░█░█░█▀▀░█▀▄░
-░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░ {Fore.RESET}v0.1 by $ffe''')
+░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░ {Fore.RESET}v0.1 by Nidress''')
 
 proxy = input(f"\n{Fore.LIGHTBLUE_EX}Proxy (username:password@ip:port): {Fore.RESET}")
 
